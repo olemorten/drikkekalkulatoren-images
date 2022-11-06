@@ -1,3 +1,3 @@
 # drikkekalkulatoren-images
 
-Public images for DrikkeKalkulatoren.no
+Public images for drikkekalkulatoren.no
